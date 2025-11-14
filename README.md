@@ -19,3 +19,8 @@ El desarrollo se gestiona siguiendo criterios de aceptación **G/W/T** (Given/Wh
 * **CSS3**: Diseño moderno estilo "tarjeta" y responsivo.
 * **JavaScript**: Lógica de interacción (menú móvil).
 * **Git & GitHub**: Control de versiones y gestión de proyectos.
+
+## ¿Cómo ejecutar este proyecto?
+1.  Clona este repositorio en tu máquina local.
+2.  Abre la carpeta del proyecto en VS Code.
+3.  Abre el archivo `index.html` directamente en tu navegador web (ej. haciendo clic derecho y "Open with Live Server" o arrastrándolo al navegador).
